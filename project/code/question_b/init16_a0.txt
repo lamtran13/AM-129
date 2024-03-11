@@ -1,0 +1,4 @@
+run_name n16_a0
+num_masses 16
+alpha 0
+C 1

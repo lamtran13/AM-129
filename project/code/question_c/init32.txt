@@ -1,0 +1,4 @@
+run_name n32
+num_masses 32
+alpha 0
+C 0.5

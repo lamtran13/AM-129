@@ -1,0 +1,4 @@
+run_name n1
+num_masses 1
+alpha 0
+C 1
