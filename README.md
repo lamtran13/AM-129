@@ -20,7 +20,7 @@ Numerically estimate the maximal Lyapunov exponent for the Lorenz equations.
 https://people.ucsc.edu/~imay1/_static/AM129_F22/hw/hw5/hw5.html
 3. Homework 6 \
 Use a provided sparse matrix data structure to calculate the stationary distribution of a particle moving randomly on a lattice.
-https://people.ucsc.edu/~imay1/_static/AM129_F22/hw/hw6/hw6.html
-4. Final Project\ Numerical ODE: Fermi-Pasta-Ulam-Tsingou problem
-Fortran implementation of leapfrog methods. A Python plotting and post-processing tool 
+https://people.ucsc.edu/~imay1/_static/AM129_F22/hw/hw6/hw6.html \
+5. Final Project\ Numerical ODE: Fermi-Pasta-Ulam-Tsingou problem
+Fortran implementation of leapfrog methods. A Python plotting and post-processing tool\ 
 https://people.ucsc.edu/~imay1/_static/AM129_F22/project/project.html
